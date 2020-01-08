@@ -3,13 +3,13 @@
 <html>
 <head>
 	<title>Waldea</title>
-	<link rel="shortcut icon" href="https://d1bvpoagx8hqbg.cloudfront.net/originals/experiencia-erasmus-seul-corea-sur-paula-2edaa2e0719b0e2a1515352eff466ba5.jpg" type="image/jng"/>
+	<link rel="shortcut icon" href="https://cdn.atrapalo.com/common/photo/event/4/7/8/7995/337031/vertic_880_0.jpg" type="image/jng"/>
 </head>
 
 <body>
 	<div class="banner">
 		<br> </br>	
-		<h1><span class="Titulo">Seúl</span></h1>
+		<h1><span class="Titulo">Waldea</span></h1>
 
 		<header>
 			<div class="contenedor">
